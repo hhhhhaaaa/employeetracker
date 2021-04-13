@@ -1,0 +1,27 @@
+{
+  "name": "employeetracker",
+  "description": "employeetracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhhhhaaaa/employeetracker.git"
+  },
+  "author": "Doug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hhhhhaaaa/profilegen/issues"
+  },
+  "homepage": "https://github.com/hhhhhaaaa/profilegen#readme",
+  "devDependencies": {
+    "fs-extra": "^9.1.0",
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "applicationinsights": "^1.8.10"
+  }
+}
