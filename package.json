@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest"
   },
   "repository": {
@@ -17,11 +18,12 @@
   },
   "homepage": "https://github.com/hhhhhaaaa/profilegen#readme",
   "devDependencies": {
-    "fs-extra": "^9.1.0",
     "inquirer": "^8.0.0",
     "jest": "^26.6.3"
   },
   "dependencies": {
-    "applicationinsights": "^1.8.10"
+    "applicationinsights": "^1.8.10",
+    "console.table": "^0.10.0",
+    "mysql": "^2.18.1"
   }
 }
